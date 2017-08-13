@@ -230,14 +230,5 @@
 .td-left{ text-align: left}
 
 .claen{ clear: both}
-
-/*.facebook{
-	background: url("../images/btn_fb.png") 0 0 no-repeat;
-	display: inline-block;
-	margin-left: 5px;
-	text-indent: -9999em;
-	text-align: left;
-	width: 17px;
-	height: 17px;
-}*/
+.banner{ margin-bottom: 10px}
 
