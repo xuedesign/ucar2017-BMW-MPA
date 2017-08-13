@@ -263,7 +263,7 @@ p.foreword {
 .postcont+.share {
 	padding-top: 25px;
 }
-.facebook, .google, .plurk {
+/*.facebook, .google, .plurk {
 	background: url("../images/social_button.png") 0 0 no-repeat;
 	display: inline-block;
 	margin-left: 5px;
@@ -277,7 +277,7 @@ p.foreword {
 }
 .plurk {
 	background-position: 0px -34px; 
-}
+}*/
 .article_tag {
     background: url("../images/sidetag_bg.gif") 0 0 no-repeat;
     font-size: 12px;

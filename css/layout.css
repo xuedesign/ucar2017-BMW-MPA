@@ -51,7 +51,7 @@ a.more:hover {
 	text-decoration: none;
 }
 .content {
-    background: url("../images/article_cont_side_bg.gif") 675px 0px repeat-y;
+    background: url("../images/article_cont_side_bg.gif") 675px 0 repeat-y;
     margin: 15px 0 20px;
     padding: 0 20px;
     text-align: left;
@@ -98,10 +98,10 @@ a.more:hover {
 }
 /* side */
 .sidebar {
-	background-color: #E0E0E0;
+	/*background-color: #E0E0E0;*/
 	float: right;
 	width: 302px;
-	height: 1600px;
+	/*height: 1600px;*/
 }
 .sidetag, .sidelink {
 	margin: 20px 15px;
@@ -352,4 +352,4 @@ a.btn:hover {
 	top: 67px;
 	left: 50%;
 }
-/**/
+/**/../../images/../images/article_cont_side_bg.gif
